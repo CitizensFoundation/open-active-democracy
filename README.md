@@ -1,3 +1,5 @@
+Open Active Democracy has now been changed to Social Innovation - see https://github.com/rbjarnason/social_innovation It's the same codebase but has been cleaned up and a new simpler UI added.
+
 Open Active Democracy is a web based platform that enables groups of people to define their democratic priorities and together discover which are the most important ideas to implement by their governments.  People can add new ideas, add arguments for and against priorities, indicate if they support or oppose an idea, create a personal list of priorities and discuss all priorities. The end results are lists of top priorities in many categories as well as the best arguments for and against each priority. This service enables people to make up their minds about most issues in a short time.
 
 Open Active Democracy (Opna lýðræðiskerfið) is a merge between:
